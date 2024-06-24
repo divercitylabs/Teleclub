@@ -1,6 +1,6 @@
 # Teleclub
 
-[![](https://dorahacks.io/_nuxt/964d27e7.svg) divercitylabs](https://github.com/divercitylabs)&nbsp;&nbsp;&nbsp; [![](https://dorahacks.io/_nuxt/0db23577.svg)@teleclub_it](https://twitter.com/teleclub_it)&nbsp;&nbsp;&nbsp;[![](https://dorahacks.io/_nuxt/1bf7bdbd.svg)@teleclub.it](https://www.instagram.com/teleclub.it)&nbsp;&nbsp;&nbsp;[![](https://dorahacks.io/_nuxt/e375d1b8.svg)Demo](https://t.me/teleclubclubbing_bot/Teleclub)&nbsp;&nbsp;&nbsp; [📚Pitch](https://github.com/divercitylabs/Teleclub/blob/main/Teleclub%20Pitch.pdf)
+[![](https://dorahacks.io/_nuxt/964d27e7.svg) divercitylabs](https://github.com/divercitylabs)&nbsp;&nbsp;&nbsp; [![](https://dorahacks.io/_nuxt/0db23577.svg)@teleclub_it](https://twitter.com/teleclub_it)&nbsp;&nbsp;&nbsp;[![](https://dorahacks.io/_nuxt/1bf7bdbd.svg)@teleclub.it](https://www.instagram.com/teleclub.it)&nbsp;&nbsp;&nbsp;[![](https://dorahacks.io/_nuxt/e375d1b8.svg)Demo](https://t.me/teleclubclubbing_bot/Teleclub)&nbsp;&nbsp;&nbsp; [📚Pitch](https://github.com/divercitylabs/Teleclub/blob/main/Teleclub%20Pitch.pdf)&nbsp;&nbsp;&nbsp;[![](https://dorahacks.io/_nuxt/15f35278.svg) Video](https://www.youtube.com/watch?v=G2MkOzVzv60)
 
 ### Vision
 
